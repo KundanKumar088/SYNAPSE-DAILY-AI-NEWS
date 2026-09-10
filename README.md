@@ -61,7 +61,7 @@ Synapse-AI-Daily/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Synapse-AI-Daily.git
+git clone https://github.com/KundanKumar088/SYNAPSE-DAILY-AI-NEWS.git
 ```
 
 ### 2. Navigate to the project
